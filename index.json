@@ -1,0 +1,11 @@
+{
+  "org": "dask",
+  "repo": "dask-jobqueue",
+  "versions": [
+    {
+      "commit": "55b972741f2cb0a8a9702637d335f89e5345c7af",
+      "tag": "",
+      "parsed_at": "2026-10-28T11:28:50.010118+00:00"
+    }
+  ]
+}
