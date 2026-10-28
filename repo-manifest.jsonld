@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/dask/dask-jobqueue/commit/55b972741f2cb0a8a9702637d335f89e5345c7af",
       "git:hexsha": "55b972741f2cb0a8a9702637d335f89e5345c7af",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/dask/dask-jobqueue/commit/669a7dba4b88fb1e0485bf5db6012eeffd191627",
